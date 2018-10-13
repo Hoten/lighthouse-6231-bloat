@@ -11,17 +11,17 @@ mogrify -format png imgs/*.jpg
 
 Run:
 ```
-./run.shj
+./run.sh
 ```
 
 Output:
 ```
-network_size_jpg: 25660384
-image_size_jpg: 8826814
-(total bytes of the webpage) / (bytes of a screenshot of that webpage) = 2.90709
+network_size_jpg: 4607501
+image_size_jpg: 128757
+(total bytes of the webpage) / (bytes of a screenshot of that webpage) = 35.78446
 
 
-network_size_png: 155655820
-image_size_png: 8796947
-(total bytes of the webpage) / (bytes of a screenshot of that webpage) = 17.69430
+network_size_png: 27872140
+image_size_png: 129379
+(total bytes of the webpage) / (bytes of a screenshot of that webpage) = 215.43017
 ```
